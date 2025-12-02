@@ -23,7 +23,7 @@
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/Orbit-AI.git](https://github.com/YOUR_USERNAME/Orbit-AI.git)
+    git clone [https://github.com/Apurba2509/Orbit-AI.git](https://github.com/Apurba2509/Orbit-AI.git)
     ```
 
 2.  **Open in Android Studio:**
